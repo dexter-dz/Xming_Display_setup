@@ -8,5 +8,5 @@ echo "Launching xcalc...... "
 xcalc
 echo "Hey $USER if Calculator didn't launch check whether you launched Xming with -ac"
 echo "If The Calculator launched successfully you are all set to launch GUI Apps"
-echo Type this command to set your Display
+echo Type the command below to set your Display
 echo "export DISPLAY=$ $DISPLAY"
