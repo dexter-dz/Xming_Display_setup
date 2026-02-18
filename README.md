@@ -1,12 +1,12 @@
 # Xming_Display_setup
 
-###If you are having trouble setting up display paramters then this scrpt is for you to make your life Easier. 
+### If you are having trouble setting up display paramters then this scrpt is for you to make your life Easier. 
 
 This script is for SSH or WSL instance running on windows and you wannt to use GUI.
 
 
 
-##• Installation
+## • Installation
 
   git clone https://github.com/dexter-dz/Xming_Display_setup.git
 
